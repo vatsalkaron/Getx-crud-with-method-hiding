@@ -1,0 +1,12 @@
+com.example.testgetx.app-jetified-window-java-1.0.0-beta04-0 /Users/macos/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.testgetx.app-core-1.6.0-1 /Users/macos/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.testgetx.app-jetified-annotation-experimental-1.1.0-2 /Users/macos/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.testgetx.app-jetified-window-1.0.0-beta04-3 /Users/macos/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.testgetx.app-debug-4 /Volumes/Data/Flutter/Flutter Projects/testgetx/android/app/src/debug/res
+com.example.testgetx.app-main-5 /Volumes/Data/Flutter/Flutter Projects/testgetx/android/app/src/main/res
+com.example.testgetx.app-pngs-6 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/generated/res/pngs/debug
+com.example.testgetx.app-resValues-7 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/generated/res/resValues/debug
+com.example.testgetx.app-rs-8 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/generated/res/rs/debug
+com.example.testgetx.app-mergeDebugResources-9 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.testgetx.app-mergeDebugResources-10 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.testgetx.app-merged_res-11 /Volumes/Data/Flutter/Flutter Projects/testgetx/build/app/intermediates/merged_res/debug
